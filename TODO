@@ -1,0 +1,15 @@
+- N players
+- game only against 2
+- players queue
+- scoreboard
+- rounds of X points
+- if one loses -> goes to queue and next on queue can play
+- server physics
+- nicknames
+- login / DB
+- avatars
+- many lobbies
+- chat
+- powerups
+- space to shoot straight faster
+- manage disconnections
